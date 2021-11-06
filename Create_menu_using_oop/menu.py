@@ -52,7 +52,11 @@ class Menu:
 
         if not notes:
             notes = self.notebook.notes
-
+            
+        if not notes:
+            print("There is no notes to display")
+            return 
+        
         for note in notes:
             print("{0}:  {1} \n        creation_date:  {2} \t\t\t tag:  {3} \n".format(
                 note.id, note.memo, note.creation_date, note.tag))
