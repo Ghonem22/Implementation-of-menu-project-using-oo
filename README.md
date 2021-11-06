@@ -13,7 +13,9 @@
 ### How to run:
 
 1- open your cmd
+
 2- change directory to ./Implementation-of-menu-project-using-oo/Create_menu/
+
 3- python menu.py
 
 This will display all choices you can use:
