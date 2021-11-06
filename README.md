@@ -14,9 +14,14 @@
 
 1- open your cmd
 
-2- change directory to ./Implementation-of-menu-project-using-oo/Create_menu/
+2- clone this repo:
 
-3- python menu.py
+       git clone https://github.com/Ghonem22/Implementation-of-menu-project-using-oo.git
+       
+3- change directory to ./Implementation-of-menu-project-using-oo/Create_menu/
+
+4- python menu.py
+
 
 This will display all choices you can use:
 
